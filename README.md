@@ -1,2 +1,5 @@
 # WebsitePage
- It contains Profile page, Login page and Signup page.
+### It contains various page including: 
+* Profile page
+* Login page 
+* Signup page.
