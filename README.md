@@ -1,5 +1,6 @@
-# WebsitePage
-### It contains various page including: 
-* Profile page
-* Login page 
-* Signup page.
+# HotelWebsitePage
+### It contains various pages including: 
+* About page
+* Contact page 
+* Index page.
+(Frontend)
